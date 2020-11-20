@@ -7,4 +7,4 @@ After running my analysis code on this data I noticed 3 things:
 
 2. Another area where one demo dominates is in the age groups. The majority of the games userbase is between 15-24, with that age group accounting for 63% of the player base. It may be a good idea to look at some strategies to make the game more appealing to older demos, who may have more money to use on the game.
 
-3. Overall jusdging by the Users purchase count data it doesnt seem like players are purchasing very many items at all. THe highest number of items purchased by a single user is just 5. Id take a hard look at the in game items and try to make them more appealing to player, like lowering the price or making them more useful in gameplay, so you can attempt to bump up sales.
+3. Overall judging by the users purchase count data it doesnt seem like players are purchasing very many items at all. The highest number of items purchased by a single user is just 5. Id take a hard look at the in game items and try to make them more appealing to player, like lowering the price or making them more useful in gameplay, so you can attempt to bump up sales.
