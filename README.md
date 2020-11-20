@@ -3,7 +3,7 @@ This repository contains the code and other resources to analyze data for the fi
 
 After running my analysis code on this data I noticed 3 things:
 
-1. An overwhelming majority of the player base is male, with 84% of all players identifying as such. Males also account for 82% of total sales in the game. Given this data you could either lean into this fact and try to make your items and powerups more appealing to male players, or try and change the marketing and certain other aspects of the game in order to bring in more female/other player and diversify your player base.
+1. An overwhelming majority of the player base is male, with 84% of all players identifying as such. Males also account for 82% of total sales in the game. Given this data you could either lean into this fact and try to make your items and powerups more appealing to male players, or try and change the marketing and certain other aspects of the game in order to bring in more female/other players and diversify your player base.
 
 2. Another area where one demo dominates is in the age groups. The majority of the games userbase is between 15-24, with that age group accounting for 63% of the player base. It may be a good idea to look at some strategies to make the game more appealing to older demos, who may have more money to use on the game.
 
